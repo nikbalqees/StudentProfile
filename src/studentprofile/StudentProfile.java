@@ -14,6 +14,8 @@ public class StudentProfile {
         System.out.println("Name: Nik Nur Balqees binti Nik Ahmad Suhaidi");
         System.out.println("Student ID: S87365");
         System.out.println("Programme: Bachelor of Computer Science (Cloud Computing Security) With Honour");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
         
     }
 }
